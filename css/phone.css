@@ -35,8 +35,8 @@ html{
 li{
     padding: 9px;
 }
-.slider img {
-    height: 500px;
+.slider {
+    height: 460px;
 }
 .middle{
     height: 800px;
