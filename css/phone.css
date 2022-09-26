@@ -1,0 +1,173 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.header{
+    display: block;
+    height: 73px;
+}
+.mech {
+    width: 100%;
+    height: 40px;
+}
+.mech .mec {
+    margin: 0;
+    padding: 3px 20px;
+}
+.header h1 {
+    font-size: 28px;
+}
+.header h2{
+    font-size: 13px;
+}
+.header2{
+    width: 100%;
+}
+.time{
+    margin-right: 0px;
+    /* margin: auto 20px; */
+}
+#logo img {
+    height: 30px;
+    width: 65px;
+    margin: 0px 7px;
+}
+li{
+    padding: 9px;
+}
+.slider img {
+    height: 500px;
+}
+.middle{
+    height: 800px;
+}
+.middle h1 {
+    font-size: 20px;
+    margin: 30px 100px;
+}
+.box{
+    display: block;
+}
+.boxs{
+    margin: 60px auto;
+    width: 320px;
+}
+.boxs i{
+    font-size: 30px;
+}
+.we{
+    display: block;
+}
+.wework{
+    height: 1100px;
+}
+.we .how {
+    margin: 30px 5px;
+}
+.brands .logo {
+    margin: 64px 0px;
+}
+
+/* ABOUT PAGE  */
+
+.container1 #top {
+    font-size: 40px;
+}
+.container1 #advantage{
+    font-size: 27px;
+}
+.the #p0 {
+    margin: 23px 52px;
+}
+.pro1 img {
+    width: 340px;
+}
+.write{
+    width: 340px;
+}
+.write h2{
+    font-size: 28px;
+}
+.write h3 {
+    font-size: 18px;
+}
+.write p {
+    font-size: 14px;
+}
+.door img {
+    width: 340px;
+}
+.write1{
+    width: 340px;
+}
+.write1 h2{
+    font-size: 28px;
+}
+.write1 h3 {
+    font-size: 18px;
+}
+.write1 p {
+    font-size: 14px;
+}
+
+/* CONTACT PAGE  */
+
+/* #formgroup{
+    height: 100vh;
+    width: 100%;
+} */
+
+
+
+/* SERVICES PAGE  */
+
+#container3::before {
+    height: 1042px;
+}
+.head {
+    width: 333px;
+}
+.head h1{
+    font-size: 30px;
+}
+.head h3 {
+    font-size: 15px;
+    margin-top: -50px;
+}
+.right #list {
+    font-size: 13px;
+}
+#list li {
+    padding: 6px;
+}
+.content{
+    margin: -115px 0px;
+}
+.content img{
+    height: 52px;
+}
+.content p{
+    font-size: 12px;
+}
+.content1 {
+    margin: 9px 90px;
+}
+.cont img{
+    height: 52px;
+}
+.content1 .cont p{
+    font-size: 12px;
+}
+#brand {
+    margin: 4px;
+}
+#brand img {
+    height: 25px;
+}
+
+
+
+
+footer{
+    font-size: 12px;
+}

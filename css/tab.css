@@ -1,0 +1,184 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.mech .mec{
+    margin: 15px -35px;
+}
+.header h2{
+    font-size: 10px;
+}
+.header h1{
+    font-size: 22px;
+}
+.time img{
+    height: 30px;
+    margin: 0px 4px;
+}
+.call img{
+    height: 33px;
+}
+.call h3{
+    font-size: 13px;
+}
+.header2 .open h3{
+    font-size: 13px;
+}
+.header2 .open h4{
+    font-size: 10px;
+}
+.middle{
+    height: 510px;
+}
+.middle h1{
+    font-size: 32px;
+    margin: 45px 180px;
+}
+.wework{
+    height: 550px;
+}
+.we .how p {
+    padding: 0px 6px;
+}
+.box{
+    margin: 0px 12px;
+}
+.boxs h3{
+    font-size: 18px;
+    margin: 6px;
+}
+.boxs p{
+    font-size: 18px;
+    margin-bottom: 4px;
+}
+.brands{
+    height: 426px;
+}
+.brands .logo{
+    margin: 78px 17px;
+    /* display: inline-block;
+    text-align: center; */
+}
+.brands .logo img{
+    height: 50px;
+    margin: 11px 9px;
+}
+
+
+
+
+/* ABOUT PAGE CSS  */
+.professional{
+    display: block;
+    text-align: center;
+}
+.pro1 img {
+    width: 600px;
+    margin: 70px auto;
+}
+.write{
+    width: 600px;
+    text-align: center;
+    margin: -30px auto;
+}
+.write h2{
+    font-size: 34px;
+}
+.write h3{
+    font-size: 27px;
+}
+.write p{
+    font-size: 20px;
+}
+
+
+
+.container2 {
+    flex-direction: column-reverse;
+    margin: 70px auto;
+    text-align: center;
+}
+.write1 {
+    margin: -30px auto;
+    width: 600px;
+}
+.write1 h2{
+    font-size: 34px;
+}
+.write1 h3{
+    font-size: 27px;
+}
+.write1 p{
+    font-size: 20px;
+}
+.door img {
+    width: 600px;
+    margin: 90px auto;
+}
+
+
+/* SERViCES PAGE  */
+
+#container3 {
+    height: 898px;
+}
+#container3::before{
+    height: 1028px;
+}
+.head{
+    margin: 0px auto; 
+    width: 590px;
+}
+.head h1 {
+    margin: 70px;
+}
+.bottom{
+    display: flex;
+    flex-direction: row;
+}
+.content{
+    margin: -115px auto;
+    background: none;
+}
+.content1{
+    margin: 3px 150px;
+}
+.content img {
+    height: 52px;
+    margin-top: 141px;
+}
+
+.cont{
+    margin: 33px auto;
+    background: none;
+    height: 89px;
+    width: 112px;
+}
+.cont img {
+    height: 52px;
+    margin-top: 107px;
+}
+#we h2{
+    margin-top: 107px;
+}
+#brand{
+    margin: 8px;
+}
+#brand img {
+    height: 36px;
+}
+
+
+
+/* CONTACT PAGE  */
+
+.formgroup{
+   overflow: hidden;
+   display: block;
+}
+.formgroup h1{
+    text-align: center;
+}
+.myform{
+    margin: -61px auto;
+}
