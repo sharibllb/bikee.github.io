@@ -187,6 +187,7 @@ a:hover{
 }
 .right #list{
     display: block;
+    color: cornsilk;
 }
 #list li{
     padding: 12px;
