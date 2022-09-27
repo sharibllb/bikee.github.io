@@ -301,7 +301,7 @@ a:hover{
     background: none;
     font-weight: bold;
     color: white;
-
+    transition: 0.5s;
 }
 .form{
     display: flex;
