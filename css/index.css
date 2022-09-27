@@ -98,6 +98,7 @@ a:hover{
     text-shadow: 3px 2px black;
     font-weight: bold;
     font-size: 18px;
+    transition: 0.3s;
 }
 
 #logo img{
@@ -221,7 +222,10 @@ a:hover{
     box-shadow: 0px 0px 10px blue,
                 0px 0px 20px blue,
                 0px 0px 30px blue;
-    border: none;            
+    border: none;    
+    transition: 0.5s;
+    letter-spacing: 1px;
+    font-size: 18px;           
 }
 
 
